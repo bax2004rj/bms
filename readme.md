@@ -5,7 +5,8 @@ This is a project that allows you to monitor the voltage of a LIPO battery arran
 - UART/Serial computer communication
 - Support for current monitoring with current shunt
 - Automatic shutoff on dead battery
-Watch the demo video [here](https://raw.githubusercontent.com/bax2004/bms/main/demos/bmsDemo.mp4).
+
+Watch the demo video [here](https://github.com/bax2004rj/bms/raw/refs/heads/main/demos/bmsDemo.mp4).
 ## Installation and building
 ### Building hardware
 Replicate the design shown in the schematics in the /pcb/ folder. PCB designs may become available at a later date.
